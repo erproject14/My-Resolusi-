@@ -1,2 +1,2 @@
-# My-Resolusi-
+# My-Resolusi
 Repository to store my plans
