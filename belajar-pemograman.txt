@@ -1,6 +1,6 @@
 BELAJAR FRONT END
 - HTML
 - CSS
-- Git & GitHub
+  * css flexbox
 - JavaScript
 - API
